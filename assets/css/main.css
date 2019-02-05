@@ -247,7 +247,6 @@
 
 	h6 {
 		font-size: 1em;
-		text-transform: none;
 	}
 
 	@media screen and (max-width: 480px) {
